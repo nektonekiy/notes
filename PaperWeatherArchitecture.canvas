@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"9172eb8857ba200f","type":"group","x":-520,"y":-260,"width":1060,"height":420,"label":"WeatherDataSource"},
+		{"id":"4e0f444b3c52c5e5","type":"text","text":"# API (object)\n- `request(city, units, apiKey)` \\[`WeatherData`\\]  ","x":-100,"y":-40,"width":400,"height":180},
+		{"id":"edc08b89dc6280b0","type":"text","text":"# Cache (object)\n- `lastWeatherRequests` \\[`array` of `WeatherData`\\]\n- `request(city, units)` (=> \\[`WeatherData` || `null`])\n- `checkActualityOfData(city, actualityLimit)` (=> \\[`boolean`\\])","x":-100,"y":-240,"width":620,"height":180},
+		{"id":"c391330d5c9ecc38","type":"text","text":"# WeatherData (class)\n- `city` \\[`string`\\]\n- `temp` \\[`number`\\]\n- `conditinons` \\[`string`\\]\n- `requestTimestamp` \\[`number`\\]\n- `units` \\[`string`\\]","x":720,"y":-152,"width":327,"height":212},
+		{"id":"a204d0cb545a4321","type":"text","text":"# WeatherDataSource (object)\n- `apiKey` \\[`string`\\]\n- `units` \\[`string`\\]\n- `actualityLimit` \\[`string`\\]\n- `getDataFrom(city)` \\[`WeatherData`\\]\n","x":-500,"y":-182,"width":347,"height":244}
+	],
+	"edges":[
+		{"id":"7613723e9d1cc73f","fromNode":"4e0f444b3c52c5e5","fromSide":"left","toNode":"a204d0cb545a4321","toSide":"right"},
+		{"id":"8d54e56f61d861cb","fromNode":"edc08b89dc6280b0","fromSide":"left","toNode":"a204d0cb545a4321","toSide":"right"},
+		{"id":"6d525d4406875ad5","fromNode":"9172eb8857ba200f","fromSide":"right","toNode":"c391330d5c9ecc38","toSide":"left","label":"source of"}
+	]
+}

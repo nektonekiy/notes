@@ -1,0 +1,33 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "created": "datetime",
+    "date": "date",
+    "project": "multitext",
+    "related-projects": "multitext",
+    "isProjectActive": "checkbox",
+    "relatedAreas": "multitext",
+    "eventDate": "date",
+    "eventEndDate": "datetime",
+    "eventStartDate": "datetime",
+    "deadline": "date",
+    "relatedZones": "text",
+    "amIReading": "checkbox",
+    "hadIRead": "checkbox",
+    "rating": "number",
+    "pagesRead": "number",
+    "pagesCount": "number",
+    "genres": "multitext",
+    "eventStartDateTime": "datetime",
+    "eventEndDateTime": "datetime",
+    "related": "multitext",
+    "status": "checkbox",
+    "date_watched": "date",
+    "pages": "number",
+    "precent": "number",
+    "date_finished": "date",
+    "date_started": "date"
+  }
+}

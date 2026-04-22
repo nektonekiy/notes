@@ -1,0 +1,4 @@
+body {
+    --p-spacing: 0.6rem; /* default is 1em */
+    --heading-spacing: calc(var(--p-spacing) * 2.5);
+}

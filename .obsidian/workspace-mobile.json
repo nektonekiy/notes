@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "09a0ada1e3dea8f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1db9512804db6938",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "907f41293a470809",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journaling/28-02-2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "28-02-2026"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fbcca5a6b1d8ce8d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "163d7ef8548e6229",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "2a69d9b7d32ed936",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "aa8041e86b10a302",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "87d13ce5236672d1",
+        "type": "leaf",
+        "state": {
+          "type": "vertical-tabs",
+          "state": {},
+          "icon": "vertical-tabs",
+          "title": "Vertical tabs"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "right": {
+    "id": "dbb98e3e4530e038",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f7e9a7e4162929cc",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "0-daily/19-02-2025.md",
+            "collapseAll": true,
+            "extraContext": true,
+            "sortOrder": "alphabetical",
+            "showSearch": true,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "877b61d51b344be3",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "journaling/09-12-2025.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "224b655d0597730d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "journaling/09-12-2025.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "f911a26b228c7901",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      },
+      {
+        "id": "1530237f517f583d",
+        "type": "leaf",
+        "state": {
+          "type": "file-properties",
+          "state": {
+            "file": "meta/pages/_MOC.md"
+          },
+          "icon": "lucide-info",
+          "title": "File properties"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "bases:Create new base": false,
+      "daily-notes:Open today's daily note": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "907f41293a470809",
+  "lastOpenFiles": [
+    "journaling/01-03-2026.md",
+    "journaling/28-02-2026.md",
+    "journaling/27-02-2026.md",
+    "journaling/21-02-2026.md",
+    "_fitness.md",
+    "+Routine.md",
+    "meta/pages/MOC.md",
+    "journaling/23-02-2026.md",
+    "CampusProject.md",
+    "+IT.md",
+    "journaling/26-02-2026.md",
+    "journaling/25-02-2026.md",
+    "journaling/24-02-2026.md",
+    "journaling/22-02-2026.md",
+    "_workoutTracking.md",
+    "trainingProgram.md",
+    "meta/pages/Library.md",
+    "journaling/19-02-2026.md",
+    "journaling/20-02-2026.md",
+    "_MorningRoutine.md",
+    "+Strategy.md",
+    "journaling/18-02-2026.md",
+    "journaling/15-02-2026.md",
+    "journaling/14-02-2026.md",
+    "journaling/13-02-2026.md",
+    "journaling/12-02-2026.md",
+    "0-zones/*inbox",
+    "0-zones/_frontendLearning/ideas",
+    "9-meta/dvQueries/book.js",
+    "9-meta/dvQueries",
+    "0-zones/_frontendLearning/docs/CSS",
+    "0-zones/_dataStructuresLearning",
+    "0-zones/_proxy",
+    "0-zones/_programming/sheets",
+    "0-zones/_programming",
+    "0-zones/_home/ideas",
+    "3-areas/_buildingSecondBrain/pagespile-architecture.canvas"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "showLineNumber": false,
+  "vimMode": true,
+  "tabSize": 2,
+  "showInlineTitle": false,
+  "promptDelete": false,
+  "attachmentFolderPath": "9-meta/attachments",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "/",
+  "readableLineLength": false,
+  "propertiesInDocument": "hidden",
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  },
+  "spellcheck": false,
+  "userIgnoreFilters": [
+    "9-meta/"
+  ],
+  "rightToLeft": false,
+  "mobileToolbarCommands": [
+    "editor:fold-all",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "daily-notes"
+  ]
+}
