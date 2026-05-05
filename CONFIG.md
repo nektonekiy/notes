@@ -29,12 +29,13 @@ actionButton.define {
 
 ```space-style
 html[data-theme="dark"] {
-  --ui-accent-color: #e8eaf0;
-  --top-background-color: #16181f;
+  --ui-accent-color: #e8e8e8;
+  --top-background-color: #161616;
+  --modal-selected-option-background-color: #3f3f3f;
 }
 
 html[data-theme="dark"] .cm-editor {
-  background: #16181f !important;
+  background: #161616 !important;
 }
 
 /* Типографика */
@@ -71,7 +72,7 @@ html[data-theme="dark"] .hashtag {
 
 /* Код */
 html[data-theme="dark"] code {
-  background: #22252f;
+  background: #252525;
   color: #b8bdd0;
   border-radius: 3px;
   padding: 1px 5px;
