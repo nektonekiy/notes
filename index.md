@@ -4,5 +4,5 @@ pageDecoration:
   disableTOC: true
 ---
 # Home
-  # 📥 [[+Inbox|Inbox]]                                        🎯 [[_Actions|Actions]]
+  # 📥 [[+Inbox|Inbox]]                                        🎯 [[+Actions|Actions]]
   # 🗂️ [[+PAR|Projects and Resources]]   📅 [[+Journal|Journal]] 
