@@ -1,21 +1,6 @@
 ```space-lua
 config.set{
-  plugs = {
-    "ghr:deepkn/silverbullet-graphview"
-  },
-  graphview = {
-    ignoredPrefixes = {
-      "Library",
-    },
-    enableDecorations = true,
-    position = "rhs",
-    colormap = {
-      tag = {
-        services = "01017a",
-        notes = "02bdb6"
-      }
-    }
-  }
+  plugs = {}
 }
 
 actionButton.define {
@@ -30,12 +15,18 @@ actionButton.define {
 ```space-style
 html[data-theme="dark"] {
   --ui-accent-color: #e8e8e8;
-  --top-background-color: #161616;
+  --root-background-color: #161616;
+  --root-content-color: #dde1ec;
   --modal-selected-option-background-color: #3f3f3f;
 }
 
-html[data-theme="dark"] .cm-editor {
-  background: #161616 !important;
+.cm-editor {
+  background: var(--root-background-color) !important;
+}
+
+#sb-top {
+    --top-background-color: var(--root-background-color);
+    --top-border-color: var(--root-background-color);
 }
 
 /* Типографика */
@@ -44,8 +35,8 @@ html {
   --editor-width: 75%;
 }
 
-html[data-theme="dark"] .cm-content {
-  color: #dde1ec;
+.cm-content {
+  color: var(--root-content-color);
   line-height: 1.8;
 }
 
@@ -78,10 +69,8 @@ html[data-theme="dark"] code {
   padding: 1px 5px;
 }
 
-html[data-theme="dark"] .cm-fenced-code {
-  background: #1c1f28 !important;
-  border-radius: 6px;
-  border: 1px solid #2a2d38;
+html[data-theme="dark"] .sb-line-fenced-code {
+  padding: 0 10px !important; 
 }
 
 /* Разделитель */

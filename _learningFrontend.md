@@ -1,7 +1,4 @@
----
-tags:
-  - areas
----
+#areas #IT
 # Изучение Фронтенда
 # Задачи 
 - [ ] Изучить [[_learnReact|React]]
