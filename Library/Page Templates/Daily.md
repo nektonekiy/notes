@@ -6,6 +6,7 @@ confirmName: false
 tags: meta/template/page
 openIfExists: true
 ---
+#daily
 # Scheduled 
 ${"$"}{template.each(query[[
   from p = tags.actions
