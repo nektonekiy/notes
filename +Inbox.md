@@ -1,5 +1,6 @@
 # 📥 Inbox
 ${template.each(query[[
-  from j = index.tag("inbox")
-  order by j.name desc
+  from p = index.tag("inbox")
+  where table.includes(p.itags, "page")
+  order by p.name desc
 ]], templates.pageItem)}

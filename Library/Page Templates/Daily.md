@@ -13,5 +13,7 @@ ${"$"}{template.each(query[[
   where table.includes(p.tags, "scheduled") and p.date == editor.getCurrentPage()
   order by lastModified
   ]], templates.pageItem)}
+# Plans
+- [ ] 
 # Notes
-- |^| 
+- 

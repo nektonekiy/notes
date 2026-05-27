@@ -1,4 +1,7 @@
-# 🗂️ Projects and Topics
+# 🗂️ Projects and Resources
+# Study
+- [[_englishExam]]
+- - -
 # IT
 -  [[_WeatherPaper]]
 - [[_learningFrontend]]
@@ -22,6 +25,9 @@
 - - -
 # Self-improvement
 - [[_learningTouchTyping]]
+- [[перегруз от изобилия]]
+- [[расхламление]]
+- [[перегруз информацией]]
 - - - 
  - [[_MorningRoutine]]
 - [[_EveningRoutine]]

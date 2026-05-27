@@ -1,6 +1,0 @@
-{
-  "format": "DD-MM-YYYY",
-  "folder": "journaling/",
-  "template": "meta/templates/dailyNote",
-  "autorun": false
-}
