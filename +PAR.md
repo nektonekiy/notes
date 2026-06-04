@@ -1,29 +1,38 @@
 # 🗂️ Projects and Resources
-# Study
+## Study
 - [[_englishExam]]
 - - -
-# IT
--  [[_WeatherPaper]]
-- [[_learningFrontend]]
-- [[_learnReact]]
+## IT
 - [[_learningGit]]
 - [[_learningDataStructures]]
 - [[_learningDevelopmentPatterns]]
+- - -
 - [[CompassProject]]
 - - -
-# Emigration
+## Frontend
+-  [[_WeatherPaper]]
+- [[_learningFrontendTools]]
+- [[_learnReact]]
+- - -
+- [[CSSGrid]]
+- - -
+## JavaScript
+- [[Promise]]
+- [[ArraysFuncsAndVars]]
+- - -
+## Emigration
 - [[_emigrationPlan]]
 - [[_learningGerman]]
 - [[_germanContract]]
 - [[_germanVisa]]
 - [[_voencomat]]
 - - -
-# Health
+## Health
 - [[TrainingProgram]]
 - [[WorkoutTracking]]
 - [[Cooking]]
 - - -
-# Self-improvement
+## Self-improvement
 - [[_learningTouchTyping]]
 - [[перегруз от изобилия]]
 - [[расхламление]]
@@ -33,7 +42,7 @@
 - [[_EveningRoutine]]
 - [[_affirmations]]
 - - -
-# Self-therapy
+## Self-therapy
 - [[_FOMO]]
 - [[_Нейроотличия]]
 

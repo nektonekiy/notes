@@ -2,7 +2,7 @@
 media: https://www.youtube.com/watch?v=b_cc3Blez9I
 created: 2025-05-24 15:52
 typeOfContent: doc
-related: "[[_learningFrontend]]"
+related: "[[_learningFrontendTools]]"
 ---
 # CSS Grid
 [02:42](https://www.youtube.com/watch?t=162&v=b_cc3Blez9I)
