@@ -1,0 +1,5 @@
+- [ ] [[update some styles for focus flow]]
+- [ ] [[complete bullet feature for focus flow]]
+- [ ] [[add feature to modify lines in focus flow notebook]]
+- [ ] [[optimize focus flow rendering]]
+- [ ] [[create a storage for focus flow data]] 

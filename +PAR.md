@@ -13,6 +13,7 @@
 -  [[_WeatherPaper]]
 - [[_learningFrontendTools]]
 - [[_learnReact]]
+- [[_flow-focus]]
 - - -
 - [[CSSGrid]]
 - - -
@@ -36,7 +37,6 @@
 - [[_learningTouchTyping]]
 - [[перегруз от изобилия]]
 - [[расхламление]]
-- [[перегруз информацией]]
 - - - 
  - [[_MorningRoutine]]
 - [[_EveningRoutine]]
